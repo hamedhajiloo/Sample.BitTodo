@@ -1,0 +1,3 @@
+﻿name: Sample.BitTodo.Iac
+runtime: dotnet
+description: Sample.BitTodo infrastructure as a code
